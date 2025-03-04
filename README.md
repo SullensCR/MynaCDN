@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Smoothie" src="https://cdn.xealah.com/mynaicon.svg" width="100" />
+    <img alt="Myna Lanucher" src="https://cdn.xealah.com/mynaicon.svg" width="100" />
     <br>
   Myna Launcher
 </h1>
