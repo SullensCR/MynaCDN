@@ -1,0 +1,305 @@
+[
+  {
+    "icon": "https://cdn.xealah.com/horion.png",
+    "type": 1,
+    "clientName": "Horion Client",
+    "version": "1.21.8x",
+    "downloadLink": "https://horion.download/bin/Horion.dll",
+    "developers": "FloppyDolphin57",
+    "links": [
+      {
+        "Name": "Website",
+        "Link": "https://horion.download"
+      }
+    ],
+    "configPath": "RoamingState\\Horion",
+    "images": [
+      "https://cdn.xealah.com/solstice4.png",
+      "https://cdn.xealah.com/solstice2.png",
+      "https://cdn.xealah.com/solstice3.png"
+    ],
+    "gradient": [
+      "#1989F9",
+      "#2F9FFF"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 1,
+    "clientName": "Solstice Client",
+    "version": "1.21.9x",
+    "downloadLink": "https://cdn.xealah.com/Solstice.dll",
+    "developers": "VastraKai",
+    "links": [],
+    "configPath": "RoamingState\\Solstice",
+    "images": [
+      "https://cdn.xealah.com/solstice4.png",
+      "https://cdn.xealah.com/solstice2.png",
+      "https://cdn.xealah.com/solstice3.png"
+    ],
+    "gradient": [
+      "#ff7708",
+      "#fc9849"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 1,
+    "clientName": "Orphan Client",
+    "version": "1.21.9x",
+    "downloadLink": "https://cdn.xealah.com/Orphan.dll",
+    "developers": "Edest10",
+    "links": [],
+    "configPath": "RoamingState\\Orphan",
+    "images": [],
+    "gradient": [
+      "#222831",
+      "#393e46"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 2,
+    "clientName": "Reach and Aim Assist",
+    "version": "1.21.9x",
+    "downloadLink": "https://cdn.xealah.com/ReachAimAssist.exe",
+    "developers": "Zwuiix",
+    "links": [  
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/ZEVEDhheJC"
+      }
+    ],
+    "configPath": "RoamingState",
+    "images": [],
+    "gradient": [
+      "#454545",
+      "#707070"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 2,
+    "clientName": "Nitro Client",
+    "version": "1.21.9x",
+    "downloadLink": "https://cdn.xealah.com/Nitro.exe",
+    "developers": "JavaJar",
+    "links": [  
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/eEgchgRW73"
+      }
+    ],
+    "configPath": "RoamingState",
+    "images": [],
+    "gradient": [
+      "#d6bcfa",
+      "#808cff"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 1,
+    "clientName": "Primordial",
+    "version": "1.21.7x",
+    "downloadLink": "https://cdn.xealah.com/Primordial.dll",
+    "developers": "Harsh Singh, John",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/yFAQg6upxF"
+      }
+    ],
+    "configPath": "RoamingState\\Primordial",
+    "images": [],
+    "gradient": [
+      "#1989f9",
+      "#2F9fff"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/flarial.png",
+    "type": 0,
+    "clientName": "Flarial Client",
+    "version": "1.21.9x",
+    "downloadLink": "https://github.com/flarialmc/newcdn/raw/main/dll/latest.dll",
+    "developers": "Bari, Flarial Team",
+    "links": [
+      {
+        "Name": "GitHub",
+        "Link": "https://github.com/flarialmc"
+      },
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/flarial"
+      }
+    ],
+    "configPath": "RoamingState\\Flarial",
+    "images": [
+      "https://cdn.xealah.com/flarial1.png",
+      "https://cdn.xealah.com/flarial2.png",
+      "https://cdn.xealah.com/flarial3.png"
+    ],
+    "gradient": [
+      "#ff2727",
+      "#fc5a5a"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 0,
+    "clientName": "OderSo Client",
+    "version": "1.21.7x",
+    "downloadLink": "https://cdn.xealah.com/OderSo.dll",
+    "developers": "marioCST",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/oderso"
+      }
+    ],
+    "configPath": "RoamingState\\OderSo",
+    "images": [
+      "https://cdn.xealah.com/oderso1.png",
+      "https://cdn.xealah.com/oderso2.png",
+      "https://cdn.xealah.com/oderso3.png"
+    ],
+    "gradient": [
+      "#a22eab",
+      "#4e4f90"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/prax.png",
+    "type": 1,
+    "clientName": "Prax Client",
+    "version": "1.21.2x",
+    "downloadLink": "https://cdn.xealah.com/Prax.dll",
+    "developers": "Flash",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/u9gfxEKG7b"
+      }
+    ],
+    "configPath": "RoamingState\\Prax",
+    "images": [
+      "https://cdn.xealah.com/solstice1.png"
+    ],
+    "gradient": [
+      "#4814e4",
+      "#744ce6"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/borion.png",
+    "type": 1,
+    "clientName": "Borion Client",
+    "version": "1.21.3x",
+    "downloadLink": "https://cdn.xealah.com/Borion.dll",
+    "developers": "Intop, marioCST, White",
+    "links": [
+      {
+        "Name": "GitHub",
+        "Link": "https://github.com/Borion-Updated"
+      }
+    ],
+    "configPath": "RoamingState\\Bobion-Updated",
+    "images": [
+      "https://cdn.xealah.com/borion2.png",
+      "https://cdn.xealah.com/borion3.png",
+      "https://cdn.xealah.com/borion4.png"
+    ],
+    "gradient": [
+      "#07c7fc",
+      "#44d1f9"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/latite.png",
+    "type": 0,
+    "clientName": "Latite Client",
+    "version": "1.21.2x",
+    "downloadLink": "https://cdn.xealah.com/Latite.dll",
+    "developers": "JayRSky",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/latite"
+      }
+    ],
+    "configPath": "RoamingState\\LatiteRecode",
+    "images": [
+      "https://cdn.xealah.com/latite1.png",
+      "https://cdn.xealah.com/latite2.png",
+      "https://cdn.xealah.com/latite3.png"
+    ],
+    "gradient": [
+      "#4973b0",
+      "#2296a9"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 1,
+    "clientName": "Apollo Client",
+    "version": "1.21.2x",
+    "downloadLink": "https://cdn.xealah.com/Apollo.dll",
+    "description": "A hack client which gives the aesthetics or modern clients like Packet V3.",
+    "developers": "Unknown",
+    "links": [
+      {
+        "Name": "GitHub",
+        "Link": "https://github.com/VectorClient/Releases"
+      }
+    ],
+    "configPath": "RoamingState",
+    "images": [],
+    "gradient": [
+      "#0d3c93",
+      "#154fb9"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/vector.png",
+    "type": 1,
+    "clientName": "Vector Client",
+    "version": "1.20.32",
+    "downloadLink": "https://cdn.xealah.com/Vector.dll",
+    "description": "A well-made mod. Contains the cleanest Minecraft user interface.",
+    "developers": "nardpw",
+    "links": [
+      {
+        "Name": "GitHub",
+        "Link": "https://github.com/VectorClient/Releases"
+      }
+    ],
+    "configPath": "RoamingState\\Vector",
+    "images": [],
+    "gradient": [
+      "#bd1cba",
+      "#cd58ca"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 1,
+    "clientName": "Ares Client",
+    "version": "1.21.5x",
+    "downloadLink": "https://cdn.xealah.com/Ares.dll",
+    "description": "A new mod with a few, but essential, features.",
+    "developers": "Unknown",
+    "links": [
+      {
+        "Name": "",
+        "Link": ""
+      }
+    ],
+    "configPath": "RoamingState",
+    "images": [],
+    "gradient": [
+      "#323282",
+      "#323282"
+    ]
+  }
+]

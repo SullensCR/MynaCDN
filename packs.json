@@ -1,0 +1,104 @@
+{
+  "Filters": [
+    {
+      "Name": "PvP",
+      "Color": "#2C56A6"
+    },
+    {
+      "Name": "Performance",
+      "Color": "#21A154"
+    }
+  ],
+  "Items": [
+    {
+      "Name": "Avery 55k",
+      "Artist": "alexuz",
+      "BackgroundImage": "https://cdn.xealah.com/Avery%2055k.png",
+      "DownloadLink": "https://cdn.xealah.com/Avery%2055k.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "Bubblegum Edit",
+      "Artist": "ReplayClipSS",
+      "BackgroundImage": "https://cdn.xealah.com/Bubblegum%20Edit.png",
+      "DownloadLink": "https://cdn.xealah.com/Bubblegum%20Edit.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "Cool Pack",
+      "Artist": "RIV3T",
+      "BackgroundImage": "https://cdn.xealah.com/Cool%20Pack.png",
+      "DownloadLink": "https://cdn.xealah.com/Cool%20Pack.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "Divine Navy Blue",
+      "Artist": "Yuruze",
+      "BackgroundImage": "https://cdn.xealah.com/Divine%20Navy%20Blue.png",
+      "DownloadLink": "https://cdn.xealah.com/Divine%20Navy%20Blue.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "HAXOR",
+      "Artist": "Dankger",
+      "BackgroundImage": "https://cdn.xealah.com/HAXOR.png",
+      "DownloadLink": "https://cdn.xealah.com/HAXOR.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "hitbox",
+      "Artist": "Kigarn",
+      "BackgroundImage": "https://cdn.xealah.com/hitbox.png",
+      "DownloadLink": "https://cdn.xealah.com/hitbox.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "Pumpkin Spiced",
+      "Artist": "Yuruze, VanillaSpooks",
+      "BackgroundImage": "https://cdn.xealah.com/Pumpkin%20Spiced.png",
+      "DownloadLink": "https://cdn.xealah.com/Pumpkin%20Spiced.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "purp",
+      "Artist": "damaqe",
+      "BackgroundImage": "https://cdn.xealah.com/purp.png",
+      "DownloadLink": "https://cdn.xealah.com/purp.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "starlight",
+      "Artist": "Unretiredmarb",
+      "BackgroundImage": "https://cdn.xealah.com/starlight.png",
+      "DownloadLink": "https://cdn.xealah.com/starlight.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    },
+    {
+      "Name": "xStephs Infinite",
+      "Artist": "Finn",
+      "BackgroundImage": "https://cdn.xealah.com/xStephs%20Infinite.png",
+      "DownloadLink": "https://cdn.xealah.com/xStephs%20Infinite.mcpack",
+      "Filters": [
+        "PvP"
+      ]
+    }
+  ]
+}
