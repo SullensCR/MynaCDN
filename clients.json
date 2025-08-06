@@ -27,7 +27,7 @@
     "icon": "https://cdn.xealah.com/blank.png",
     "type": 1,
     "clientName": "Solstice Client",
-    "version": "1.21.9x",
+    "version": "1.21.100",
     "downloadLink": "https://cdn.xealah.com/Solstice.dll",
     "developers": "VastraKai",
     "links": [],
@@ -302,4 +302,5 @@
       "#323282"
     ]
   }
+
 ]
