@@ -23,7 +23,8 @@
       "#2F9FFF"
     ]
   },
-  "icon": "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lickclient-icon.png",
+  {
+    "icon": "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lickclient-icon.png",
     "type": 1,
     "clientName": "Lick Client",
     "version": "1.21.94",
@@ -327,4 +328,5 @@
   }
 
 ]
+
 
