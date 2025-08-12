@@ -23,6 +23,29 @@
       "#2F9FFF"
     ]
   },
+  "icon": "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lickclient-icon.png",
+    "type": 1,
+    "clientName": "Lick Client",
+    "version": "1.21.94",
+    "downloadLink": "https://github.com/MynaServices/MynaCDN/raw/refs/heads/main/Lick.dll",
+    "developers": "governmentfed",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/UdwPJcwK5x"
+      }
+    ],
+    "configPath": "RoamingState",
+    "images": [
+      "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lick1.png",
+      "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lick2.png",
+      "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lick3.png"
+    ],
+    "gradient": [
+      "#34e324",
+      "#109e03"
+    ]
+  },
   {
     "icon": "https://cdn.xealah.com/blank.png",
     "type": 1,
@@ -304,3 +327,4 @@
   }
 
 ]
+
