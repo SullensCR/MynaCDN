@@ -24,6 +24,28 @@
     ]
   },
   {
+    "icon": "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/packet.png",
+    "type": 1,
+    "clientName": "Packet Client 3.1",
+    "version": "1.21.10x",
+    "downloadLink": "https://horion.download/bin/Horion.dll",
+    "developers": "Daze",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/UWnDvXgpr4"
+      }
+    ],
+    "configPath": "RoamingState\\Packet 3.1 Free",
+    "images": [
+      "https://raw.githubusercontent.com/SullensCR/MynaCDN/refs/heads/main/Pasted image.png"
+    ],
+    "gradient": [
+      "#9cfcef",
+      "#6feefc"
+    ]
+  },
+  {
     "icon": "https://raw.githubusercontent.com/MynaServices/MynaCDN/refs/heads/main/lickclient-icon.png",
     "type": 1,
     "clientName": "Lick Client",
